@@ -65,7 +65,7 @@ Table of Contents
 #### Developer Tooling
 - [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters
 - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed
-- [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final) - Solana-native trust scoring MCP server for AI agents with x402 micropayment receipts
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust infrastructure MCP server for AI agents on Solana. Free: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`. Paid: `get_trust_receipt` (x402/USDC, <1s). Zero-install: `https://intel.twzrd.xyz/mcp`
 
 #### Libraries & Frameworks
 - [Anchor](https://github.com/project-serum/anchor)
